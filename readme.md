@@ -19,7 +19,7 @@ The hierarchical design follows a principled progression from low-complexity, st
 * The **basic level** captures fundamental shape static features. 
 * The **intermediate level** extracts texture descriptors from multiple lip sub-regions to enhance discrimination. 
 * The **advanced level** integrates shape-independent groove features and dynamic articulator features, providing a comprehensive representation of both static appearance and dynamic motion for robust biometric authentication.
-  ![image](iamge/feature_hierarchy.png)
+  ![image](image/feature_hierarchy.png)
 
 
 
