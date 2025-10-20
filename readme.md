@@ -72,4 +72,12 @@ filetree
 
 ```
 
+
 [contributors-shield]: https://img.shields.io/github/contributors/RiannaXu/DynamicLip.svg?style=flat-square
+[contributors-url]: https://github.com/RiannaXu/DynamicLip/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RiannaXu/DynamicLip.svg?style=flat-square
+[forks-url]: https://github.com/RiannaXu/DynamicLip/network/members
+[stars-shield]: https://img.shields.io/github/stars/RiannaXu/DynamicLip.svg?style=flat-square
+[stars-url]: https://github.com/RiannaXu/DynamicLip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RiannaXu/DynamicLip.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/RiannaXu/DynamicLip.svg
