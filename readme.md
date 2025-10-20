@@ -8,8 +8,6 @@ This project extracts dynamic, articulatory, and shape-independent features from
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ![image](image/sys_flow.png)
 
