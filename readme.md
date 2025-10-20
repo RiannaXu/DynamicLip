@@ -72,3 +72,4 @@ filetree
 
 ```
 
+[contributors-shield]: https://img.shields.io/github/contributors/RiannaXu/DynamicLip.svg?style=flat-square
